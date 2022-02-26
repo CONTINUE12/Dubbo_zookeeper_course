@@ -1,23 +1,22 @@
 # Dubbo_zookeeper_course
 
 #### 介绍
+
 Java技术栈之Dubbo_zookeeper学习
 
-#### 软件架构
-软件架构说明
+#### 概述
 
+（1）Dubbo：是一款高性能、轻量级的开源Java RPC框架，它提供了三大核心能力：面向接口的远程方法调用，智能容错和负载均衡，以及服务自动注册和发现。
 
-#### 安装教程
+（2）zookeeper：是一个分布式的，开放源码的分布式应用程序协调服务。提供的功能包括：配置维护、域名服务、分布式同步、组服务等。
 
-1.  xxxx
-2.  xxxx
-3.  xxxx
+（3）分布式系统：是由一组通过网络进行通信、为了完成共同的任务而协调工作的计算机节点组成的系统。
 
-#### 使用说明
+（4）分布式服务框架（RPC）：指远程过程调用，是一种进程间通信方式，
 
-1.  xxxx
-2.  xxxx
-3.  xxxx
+#### 思维导图
+
+![image](https://github.com/CONTINUE12/Dubbo_zookeeper_course/blob/master/18.png)
 
 #### 参与贡献
 
@@ -25,7 +24,6 @@ Java技术栈之Dubbo_zookeeper学习
 2.  新建 Feat_xxx 分支
 3.  提交代码
 4.  新建 Pull Request
-
 
 #### 特技
 
